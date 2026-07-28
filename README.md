@@ -1,131 +1,109 @@
-# 🚀 Welcome to My First GitHub Repository
+<h1 align="center">Hi there, I'm JothiPrabha S 👋</h1>
+<h3 align="center">Computer Science & Engineering Student | Aspiring Software Developer</h3>
 
-Hello! 👋 I'm **JothiPrabha S**, a Computer Science and Engineering student with a passion for programming, problem-solving, and building practical software solutions.
-
-This repository marks the beginning of my GitHub journey. It serves as a collection of my learning progress, coding practice, academic work, and personal projects. Every project I upload represents a new skill learned, a challenge solved, or an idea brought to life.
-
----
-
-## 🎯 About This Repository
-
-The purpose of this repository is to:
-
-- Document my programming journey
-- Practice coding and improve problem-solving skills
-- Build real-world applications
-- Explore new technologies and frameworks
-- Share my work with the developer community
-- Track my learning progress over time
-
-As I continue learning, this repository will grow with new projects, improvements, and experiments.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jothiprabha-s-402383328">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%7C%20Web%20Dev-informational?style=flat"/>
+</p>
 
 ---
 
-## 💻 Technologies I'm Learning
+### 🚀 About Me
 
-- 🐍 Python
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🔥 Flask
-- 📊 Data Science
-- 🗄️ SQL & MySQL
-- 🔧 Git & GitHub
+I'm a Computer Science and Engineering student passionate about programming, problem-solving, and building practical software solutions. This repository marks the beginning of my GitHub journey — a collection of my learning progress, coding practice, academic work, and personal projects. Every project here represents a new skill learned, a challenge solved, or an idea brought to life.
 
----
+### 🎯 Purpose of This Repository
 
-## 📂 Repository Contents
+- 📝 Document my programming journey
+- 🧩 Practice coding and sharpen problem-solving skills
+- 🛠️ Build real-world applications
+- 🔍 Explore new technologies and frameworks
+- 🤝 Share my work with the developer community
+- 📈 Track my learning progress over time
 
-You'll find various types of projects here, including:
-
-- Beginner Python Programs
-- Data Science Practice
-- Machine Learning Projects
-- Web Development Projects
-- Mini Applications
-- College Assignments
-- Coding Challenges
-- Experiment Projects
-
-Each project helps me improve my understanding of software development and programming concepts.
+As I continue learning, this repository will keep growing with new projects, improvements, and experiments.
 
 ---
 
-## 🌱 My Learning Goals
+### 🧰 Technologies I'm Learning
 
-✔ Master Python Programming
-
-✔ Learn Full Stack Development
-
-✔ Build Real-World Projects
-
-✔ Explore Artificial Intelligence & Machine Learning
-
-✔ Contribute to Open Source
-
-✔ Become a Professional Software Developer
+| Category | Skills |
+|---|---|
+| **Languages** | Python, JavaScript |
+| **Web** | HTML5, CSS3 |
+| **Backend** | Flask |
+| **Data** | Data Science, SQL & MySQL |
+| **Tools** | Git & GitHub |
 
 ---
 
-## 🚀 Why GitHub?
+### 📂 Repository Contents
 
-GitHub helps me:
+This repository includes a range of projects and exercises:
 
-- Store my projects safely
-- Track my coding progress
-- Learn version control
-- Collaborate with other developers
-- Build a professional portfolio
+- Beginner Python programs
+- Data science practice
+- Machine learning projects
+- Web development projects
+- Mini applications
+- College assignments
+- Coding challenges
+- Experimental projects
+
+Each project reinforces my understanding of software development and core programming concepts.
 
 ---
 
-## 📈 Current Journey
+### 🌱 Learning Goals
+
+- ✔ Master Python programming
+- ✔ Learn full-stack development
+- ✔ Build real-world projects
+- ✔ Explore artificial intelligence & machine learning
+- ✔ Contribute to open source
+- ✔ Become a professional software developer
+
+---
+
+### 📈 My Development Path
 
 ```
-Learn
-   ↓
-Practice
-   ↓
-Build Projects
-   ↓
-Improve Skills
-   ↓
-Create Portfolio
-   ↓
-Grow as a Developer
+Learn → Practice → Build Projects → Improve Skills → Create Portfolio → Grow as a Developer
 ```
 
 ---
 
-## 💡 Quote That Inspires Me
+### 📌 Roadmap
+
+- [ ] Build more Python applications
+- [ ] Learn React.js
+- [ ] Explore cloud computing
+- [ ] Create AI-powered projects
+- [ ] Contribute to open source
+- [ ] Publish complete full-stack applications
+
+
+
+---
+
+### 💡 Quote That Inspires Me
 
 > "Success doesn't come from what you do occasionally. It comes from what you do consistently."
 
 ---
 
-## 📌 Future Plans
+### 🤝 Let's Connect
 
-- Build more Python applications
-- Learn React.js
-- Explore Cloud Computing
-- Create AI-powered projects
-- Contribute to Open Source
-- Publish complete full-stack applications
+I'm always excited to learn from others and collaborate on interesting projects. Feel free to explore my repositories, share feedback, or reach out with ideas.
 
----
-
-## 🤝 Let's Connect
-
-I'm always excited to learn from others and collaborate on interesting projects.
-
-Feel free to explore my repositories, provide feedback, or share ideas.
+<p align="left">
+  <a href="https://www.linkedin.com/in/jothiprabha-s-402383328">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-## ⭐ Thank You
-
-Thank you for visiting my first GitHub repository!
-
-This is just the beginning of my journey, and I'm excited to keep learning, building, and growing as a developer.
-
-**Happy Coding! 🚀**
+<p align="center"><i>⭐ Thank you for visiting my GitHub! This is just the beginning of my journey — excited to keep learning, building, and growing as a developer. Happy coding! 🚀</i></p>
